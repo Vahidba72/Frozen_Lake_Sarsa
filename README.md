@@ -56,7 +56,7 @@
   <h2>References</h2>
 
   <ul>
-    <li><a href="https://gym.openai.com/">OpenAI Gym</a>: Gym is a toolkit for developing and comparing reinforcement learning algorithms.</li>
+    <li><a href="https://gym.openai.com/](https://gymnasium.farama.org/environments/toy_text/frozen_lake/)">OpenAI Gym</a>: Gym is a toolkit for developing and comparing reinforcement learning algorithms.</li>
     <li><a href="https://en.wikipedia.org/wiki/State-action-reward-state-action">SARSA Algorithm</a>: Wikipedia page explaining the SARSA algorithm in reinforcement learning.</li>
   </ul>
 
